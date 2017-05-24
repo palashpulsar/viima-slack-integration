@@ -32,3 +32,7 @@ Go to the project and run as follows:
 cd Viima
 python viima-slack-integration.py
 ```
+Then open a browser and enter: 
+```
+http://127.0.0.1:5000/
+```
