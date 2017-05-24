@@ -1,6 +1,6 @@
 ## Viima Slack Integration
 
-This project is for integrating Viima with Slack. In particular, Viima's tutorial board is integrated with Slack through its REST JSON APIs. The project uses Flask for the integration.
+This microservice is developed for integrating Viima with Slack. In particular, Viima's tutorial board is integrated with Slack through its REST JSON APIs. This work uses Flask for the integration.
 
 ## Built With
 
