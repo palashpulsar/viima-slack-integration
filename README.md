@@ -29,7 +29,7 @@ After cloning the project, go to [credentials.py](/credentials.py) and include y
 
 Go to the project and run as follows:
 ```
-cd Viima
+cd viima-slack-integration
 python viima-slack-integration.py
 ```
 Then open a browser and enter: 
